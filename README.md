@@ -1,2 +1,2 @@
-# GitHub
- bandymai
+# Go Tutorials
+ Learning how to Go
