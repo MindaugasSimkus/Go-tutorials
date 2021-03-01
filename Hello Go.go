@@ -5,6 +5,6 @@ import "fmt"
 // this is a comment
 
 func main() {
-    fmt.Println("Hello World")
-    fmt.Println("Hello again")
+    fmt.Println("Hello GO")
+    fmt.Println("Let's learn to go")
 }
