@@ -39,6 +39,7 @@ func Calculate (s shape) {
 }
 
 func main() {
+	
 	r := rectangle{width: 5, height: 8}
 	c := circle{radius: 6}
 
